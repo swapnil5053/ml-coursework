@@ -44,4 +44,4 @@ Python, NumPy, pandas, scikit-learn, matplotlib/seaborn, Jupyter. The forecastin
 project also uses TensorFlow for the deep models.
 
 ---
-Swapnil Shantha Kumar
+Swapnil Shantha Kumar - PES University
